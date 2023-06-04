@@ -1,0 +1,14 @@
+.notifications{
+    border-radius: 50%;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;;
+    padding: 5px;
+    line-height: 5px;
+    font-size: 10px;
+    top: 8px;
+    right: 12px;
+   
+}
