@@ -1,0 +1,20 @@
+.mainDetail {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 60px;
+  gap: 30px;
+}
+
+.textDetail {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 50%;
+  height: 100px;
+}
+
+.titleDetail {
+  font-weight: 600;
+  font-size: 20px;
+}
